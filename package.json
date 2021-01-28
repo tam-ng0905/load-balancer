@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tam-ng0905/load-balancer/issues"
   },
-  "homepage": "https://github.com/tam-ng0905/load-balancer#readme"
+  "homepage": "https://github.com/tam-ng0905/load-balancer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
